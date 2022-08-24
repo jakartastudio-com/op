@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://20.243.136.171/:splat"
+  to = "https://jagoweb.site/:splat"
   status = 200
   force = true
